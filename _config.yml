@@ -16,9 +16,7 @@ author: Juliette
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -39,10 +37,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: 
-  github: 
-  twitter: 
+#  email: "someone@example.com"
+ # facebook: 
+ # github: 
+#  twitter: 
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
