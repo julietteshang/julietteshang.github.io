@@ -6,5 +6,6 @@ cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 ---
+An example of a ![good design] (https://www.niemanlab.org/images/nytimes-for-you-3-wide.jpg) is the section of the New York Times App that is customized "for you." 
+This section allows you to find topics that interest you.
 
-An example of a ![good design] (https://www.niemanlab.org/images/nytimes-for-you-3-wide.jpg) is the section of the New York Times App that is customized "for you." This section allows you to find topics that interest you.
