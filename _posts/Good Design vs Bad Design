@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title:  Good Design vs a Bad Design
+subtitle: What differentiates a good design vs a bad design?
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
 ---
-What differentiates a good design vs a bad design? An example of a ![good design] (https://www.niemanlab.org/images/nytimes-for-you-3-wide.jpg) is 
+
+An example of a ![good design] (https://www.niemanlab.org/images/nytimes-for-you-3-wide.jpg) is the section of the New York Times App that is customized "for you." This section allows you to find topics that interest you.
