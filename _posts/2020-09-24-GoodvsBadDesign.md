@@ -15,6 +15,7 @@ One limitation is that I don't think you can change the order of the articles, s
 
 
 ![bad design](../img/Screen Shot 2020-09-24 at 4.24.41 PM.png) 
+
 On the other hand, an example of a bad design is one aspect of the site Peason. 
 I used it this weekend for my homework and one small thing that made me realize this site does not have the best design is that it has bad feedback. 
 After clicking on an activity, it would take up to a minute for the activity to load, which made it inconvienient and slow. 
