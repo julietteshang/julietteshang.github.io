@@ -14,7 +14,8 @@ The mapping is also clear, as the titles of the articles clearly lead to the ful
 One limitation is that I don't think you can change the order of the articles, so the user may have to scroll a bit to find the topic they are looking for. 
 
 
-![bad design](../img/Screen Shot 2020-09-24 at 4.24.41 PM.png) On the other hand, an example of a bad design is one aspect of the site Peason. 
+![bad design](../img/Screen Shot 2020-09-24 at 4.24.41 PM.png) 
+On the other hand, an example of a bad design is one aspect of the site Peason. 
 I used it this weekend for my homework and one small thing that made me realize this site does not have the best design is that it has bad feedback. 
 After clicking on an activity, it would take up to a minute for the activity to load, which made it inconvienient and slow. 
 I have to use this site for homework and the slow feedback makes it hard to use, especially if I accidentally click on a link because then I have to wait a while to exit. 
