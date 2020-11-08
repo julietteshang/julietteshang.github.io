@@ -40,7 +40,7 @@ Team Name: What is your team name and what is the rationale behind it?
 Cheetah Polls
 
 Team Logo: What will be your project logo and what is the rationale behind it?
-Team logo: it will use the HM logo, since this app is dedicated to the HM community, and will focus on the lion’s mouth to indicate communication. 
+Team logo: it will use the HM logo, since this app is dedicated to the HM community. It has the word Comms on it so signify communication. 
 
 
 Team Plan: Write your plan for who will do what as you work on the Group Project Proposal.
