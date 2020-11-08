@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Team Contract Section 
+title: Team Contract Section 
 subtitle: Juliette Ethan and Nick
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
