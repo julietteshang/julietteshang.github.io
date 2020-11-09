@@ -11,14 +11,14 @@ comments: true
 
 #### Preliminary Information: Who is in the team, what are their schedules like, any extracurricular commitments requiring extra time, what are everyone’s skill sets, what are people’s general goals with respect to this course and project?
 
-Team members: Juliette, Ethan, and Nick
-Schedules:
-  Ethan: robotics, model congress, and parliamentary debate
-  Juliette: athletics and slearn
-  Nick: Slearn, Debate
-Skill sets:
-  Juliette Nick and Ethan: comp sci 1 and 2
-  Ethan: robotics
+Team members: Juliette, Ethan, and Nick\
+Schedules:\
+  Ethan: robotics, model congress, and parliamentary debate\
+  Juliette: athletics and slearn\
+  Nick: Slearn, Debate\
+Skill sets:\
+  Juliette Nick and Ethan: comp sci 1 and 2\
+  Ethan: robotics\
   General goals: learn how to make an app and learn about the process and swift. Also, we want to make a viable app that people can use.
 
 #### Guiding Principles: What is the team’s philosophy? What are some ground rules everyone can agree on? What is your mission?
