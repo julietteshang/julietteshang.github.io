@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Team Contract Section 
-subtitle: Juliette Ethan and Nick
+subtitle: Juliette, Ethan, and Nick
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [Team Contract]
@@ -11,7 +11,7 @@ comments: true
 
 #### Preliminary Information: Who is in the team, what are their schedules like, any extracurricular commitments requiring extra time, what are everyone’s skill sets, what are people’s general goals with respect to this course and project?
 
-Team members: Juliette Ethan and Nick
+Team members: Juliette, Ethan, and Nick
 Schedules:
   Ethan: robotics, model congress, and parliamentary debate
   Juliette: athletics and slearn
