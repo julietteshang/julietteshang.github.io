@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Our Group Proposal
-subtitle: Our app: HM Comms
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [Team proposal]
+title: Our Group Proposal
+subtitle: HM Comms
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [Team Propsoal]
+comments: true
 ---
 
 
