@@ -36,8 +36,7 @@ Division of Labor: Similar to group roles, but in this section you should specif
 We will equally split up each assignment, and if certain group members prefer to focus on a certain section, they will be able to work on that. Otherwise, we will assign each person roughly ⅓ of the section.
 
 Team Name: What is your team name and what is the rationale behind it?
-
-Cheetah Polls
+Our team name is Cheetah Polls.
 
 Team Logo: What will be your project logo and what is the rationale behind it?
 Team logo: it will use the HM logo, since this app is dedicated to the HM community. It has the word Comms on it so signify communication. 
