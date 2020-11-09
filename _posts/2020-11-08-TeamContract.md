@@ -9,19 +9,19 @@ comments: true
 ---
 
 
-Preliminary Information: Who is in the team, what are their schedules like, any extracurricular commitments requiring extra time, what are everyone’s skill sets, what are people’s general goals with respect to this course and project?
+#### Preliminary Information: Who is in the team, what are their schedules like, any extracurricular commitments requiring extra time, what are everyone’s skill sets, what are people’s general goals with respect to this course and project?
 
 Team members: Juliette Ethan and Nick
 Schedules:
-Ethan: robotics, model congress, and parliamentary debate
-Juliette: athletics and slearn
-Nick: Slearn, Debate
+  Ethan: robotics, model congress, and parliamentary debate
+  Juliette: athletics and slearn
+  Nick: Slearn, Debate
 Skill sets:
-Juliette Nick and Ethan: comp sci 1 and 2
-Ethan: robotics
-General goals: learn how to make an app and learn about the process and swift. Also, we want to make a viable app that people can use.
+  Juliette Nick and Ethan: comp sci 1 and 2
+  Ethan: robotics
+  General goals: learn how to make an app and learn about the process and swift. Also, we want to make a viable app that people can use.
 
-Guiding Principles: What is the team’s philosophy? What are some ground rules everyone can agree on? What is your mission?
+#### Guiding Principles: What is the team’s philosophy? What are some ground rules everyone can agree on? What is your mission?
 Everyone does a bit everyday so that all the work can accumulate into a finished product well before the deadline
 Mission: We all have time to not only complete our own tasks, but to peer review each other’s work so that we are all comfortable with our finished product. 
 
