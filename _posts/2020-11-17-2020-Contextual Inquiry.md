@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Contextual Inquiry
+title: Contextual Inquiry Check-in
 subtitle: User 1
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
