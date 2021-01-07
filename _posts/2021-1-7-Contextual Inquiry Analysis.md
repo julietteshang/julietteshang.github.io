@@ -7,4 +7,4 @@ gh-badge: [star, fork, follow]
 tags: [Team Propsoal]
 comments: true
 ---
-![Affinity Diagram](Affinity Diagram.png) 
+![Our Affinity Diagram](Affinity Diagram.png) 
