@@ -4,7 +4,6 @@ title: Contextual Inquiry Analysis
 subtitle: A discussion about the 3 CI's
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [Team Propsoal]
 comments: true
 ---
 ![Our Affinity Diagram](Affinity Diagram.png) 
