@@ -32,7 +32,7 @@ Currently, people communicate with the first class emailing system when they are
 These tasks are performed all throughout the weekdays and Sunday nights before school. 
 10. What are the time constraints on the tasks?
 There are no real time constraints on the task but it should be as short as possible 
-11. What happens when things go wrong?
+11. What happens when things go wrong? 
 If something goes wrong, another email must be sent explaining whatever error occurred which contributes to the flood of emails students get. 
 
 
