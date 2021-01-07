@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Update: Contextual Inquiry Progress
+title: Contextual Inquiry Progress
+subtitle: An update about our progress
+tags: [Task Analysis]
 comments: true
 ---
 We have completed 1 of 3 contextual inquiries so far. The 1st contextual inquiry was performed on a student in a statistics class. We had asked him to walk her through the process of how TL(intials of the students we performed the contextual inquiry on) checks his emails. For one of the other 2 contextual inquiries, we plan on interviewing the head of the record. We have not reached out directly to her yet because we realized that she is a senior and college applications were due very recently. However, we plan on doing so soon. If we successfuly get in contact with her, or some other student in the record, we will first ask her to share her screen over zoom(since we're all remote), and walk us through how she checks her email. Although this isn't the main topic we wanted to focus on, we plan on asking this question to all 3 of our participants to see if we get any similarities. Some questions we may ask her include, "Are you often overloaded with emails as the head of such a big club?", "Is it efficient to send out polls through first class?" Then, we will ask her to walk us through the process of creating a poll. Some questions we may ask at this point include, "How long does it normally take to create these?", "Have past polls been unsuccessful in any way?", or "How many people typically respond?" All of these questions serve to not only observe the imperfections of the first-class mailing system, but to also observe the imperfections of the polling system. 
