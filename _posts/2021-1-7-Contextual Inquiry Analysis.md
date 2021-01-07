@@ -17,7 +17,7 @@ comments: true
 HM students, club advisors, and club leaders will be using the design. 
 2. What tasks do they now perform? 
 Club leaders will send out club room information, and members of the club will check their club room. Additionally, students send out polls as well as answer other polls.
-3 What tasks are desired? 
+3. What tasks are desired? 
 The desired task is to provide a more efficient and condensed method to send out polls and schedule club rooms.
 4. How are the tasks learned? 
 Tasks will be learned through instructions given out.
