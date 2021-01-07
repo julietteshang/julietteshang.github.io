@@ -6,4 +6,4 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 comments: true
 ---
-![Our Affinity Diagram](Affinity Diagram.png) 
+![Our Affinity Diagram](Affinity Diagram.png) "This is our affinity diagram." 
