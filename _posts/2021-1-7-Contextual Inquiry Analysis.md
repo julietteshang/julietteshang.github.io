@@ -6,7 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 comments: true
 ---
-![Our Affinity Diagram](affinitydiagram.png)
+![Our Affinity Diagram](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/affinitydiagram.png?raw=true)
 ### Contextual Inquiry Analysis
   * We began planning our topic by investigating issues related to communication at Horace Mann. We pretty quickly realized that most of the issues stem from the first class email system we use at HM. So, we zoomed in on problems with first class communication, and based our contextual inquiry around this.
   
