@@ -36,14 +36,14 @@ Our rolls are open-ended, everyone will do different things depending on the tas
 We will equally split up each assignment, and if certain group members prefer to focus on a certain section, they will be able to work on that. Otherwise, we will assign each person roughly ⅓ of the section.
 
 #### Team Name: What is your team name and what is the rationale behind it?
-Our team name is Cheetah Polls.
+Our team name is HM Commms.
 
 #### Team Logo: What will be your project logo and what is the rationale behind it?
 Team logo: it will use the HM logo, since this app is dedicated to the HM community. It has the word Comms on it so signify communication. 
 
 
 #### Team Plan: Write your plan for who will do what as you work on the Group Project Proposal.
-We have assigned a question for each team member to answer. 
+As soon as we are assigned the project, we will split up the work between team members so that each member knows what they are accountable for, and so that everyone completes the same amount of work.
 
 
 #### Meeting Management: How often will you meet? How will you coordinate when to meet? How will you communicate to plan meetings? How will the meetings be conducted, what are your expectations for each group member? How will you support each other so that if someone is having a bad day, the meeting can still be successful? How will you make decisions, what happens if people disagree? How will you manage meeting remotely? How will you manage meetings in person if one or more members are remote?
@@ -59,6 +59,7 @@ We will make decisions as a collective group .
 We will have shared google documents so that we can all view and add to it 
 In each meeting, we will begin by assigning sections for each person
 Each person will put in their own effort; we all have similar standards and will be the best group members we can be
+We can keep in touch with each other via text message so that we can ask each other questions or simply check in with each other outside of class, rather than being constrained to just communicating during our class time.
 
 #### Rewards/Punishments: How will you motivate yourselves and each other to do your part and deliver the best possible results? What happens if someone fails to meet their commitments? How is success rewarded? How will you respond to failure to adhere to this product? How will you provide each other with helpful and honest feedback without disrupting the process or hurting the team dynamic?
 We will all keep in touch and check-in with what we have completed and congratulate/motivate each other depending on if someone is well ahead of their projected pace, or if a person is behind schedule. 
