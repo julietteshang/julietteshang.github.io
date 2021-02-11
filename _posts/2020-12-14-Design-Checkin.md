@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Task Review
+title: Design Check In
 subtitle: Juliette, Ethan, and Nick
 tags: [Task Analysis]
 comments: true
