@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 comments: true
 ---
 ![Storyboard #1](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Juliette Storyboard.png?raw=true)
-![Storyboard # 2](https://github.com/EthanNickJuliette/EthanNickJuliette.io/blob/master/Nick Storyboard.png?raw=true0)
+![Storyboard #2](https://github.com/EthanNickJuliette/EthanNickJuliette.io/blob/master/Nick Storyboard.png?raw=true)
 ### Storyboard Summary 
 We chose this design because it allows us to complete our two tasks in the most efficient and interactive way. It mainly bases around Nick’s original design, 
 with the addition of a few new features, such as a login and account system with their HM email, and including an option of seeing how many people answered polls
