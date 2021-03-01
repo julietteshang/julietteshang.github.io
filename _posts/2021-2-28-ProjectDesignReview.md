@@ -9,7 +9,7 @@ comments: true
 ![Storyboard #1](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Juliette Storyboard.png?raw=true)
 
 
-[Storyboard #2](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Nick Storyboard.png?raw=true)
+![Storyboard #2](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Nick Storyboard.png?raw=true)
 
 ### Storyboard Summary
 We chose this design because it allows us to complete our two tasks in the most efficient and interactive way. It mainly bases around Nick’s original design, 
