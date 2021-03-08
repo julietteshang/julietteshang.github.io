@@ -20,40 +20,40 @@ along with the “Statistics” and “Just For Fun” page - for the user to ch
 There will also be a down arrow towards the bottom right of the screen, indicating to the user that they can 
 scroll down to view more clubs.
 
-![Page #3](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page #3.jpeg?raw=true)
+![Page #3](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page%20%233.jpeg?raw=true)
 
 If the user clicks on the “Send Out A Poll” button at the bottom left side of the home page, the user will be directed
 to this screen. To successfully submit a poll, the user will have to fill in their horace mann email (just in case we
 need to contact them), the question they want to ask, and the answer choices that will correspond with the question. 
 Lastly, they will have an option to remain anonymous when their poll is published.
 
-![Page #4](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page #4.jpeg?raw=true)
+![Page #4](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page%20%234.jpeg?raw=true)
 
 After the user has successfully published a poll, there will be a thank you screen and a button that will lead them 
 back to the home page.
 
-![Page #5](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page #5.jpeg?raw=true)
+![Page #5](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page%20%235.jpeg?raw=true)
 
 This is the page that the app brings you to after pressing the Club Rooms button on the 2nd picture. You can scroll 
 and see a list of all clubs, and star the clubs you are interested in, which then will show up on the left, with the 
 club room listed. 
 
-![Page #6](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page #6.jpeg?raw=true)
+![Page #6](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page%20%236.jpeg?raw=true)
 
 This page allows for administrators or club leaders to schedule a club meeting. When on this page, they are required 
 to input their email, date, and time for their club meeting.
 
-![Page #7](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page #7.jpeg?raw=true)
+![Page #7](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page%20%237.jpeg?raw=true)
 
 This is the page that offers the user to do different polls from a certain club, and they just click one of the options
 and are taken to another page to put their answer on.
 
-![Page #8](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page #8.jpeg?raw=true)
+![Page #8](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page%20%238.jpeg?raw=true)
 
 This last photo is where you answer the question, it is either a yes or no question, or you can submit another response.
 You then press the submit button and it takes you to the next page.
 
-![Page #9](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page #9.jpeg?raw=true)
+![Page #9](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page%20%239.jpeg?raw=true)
 
 This is the thank you page after someone answers a poll. 
 
