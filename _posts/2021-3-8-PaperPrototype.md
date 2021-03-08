@@ -13,7 +13,7 @@ comments: true
 This is the first page when you open the app. You can log in with your HM email if you have already registered, 
 and if you are new, you can sign up with your HM email.
 
-![Page #2](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page #2.jpeg?raw=true)
+![Page#2](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page%20%232.jpeg?raw=true)
 
 Following the sign in/sign up page, the user will be directed to the home page. Here, every club will be listed
 along with the “Statistics” and “Just For Fun” page - for the user to choose what they want to focus on. 
