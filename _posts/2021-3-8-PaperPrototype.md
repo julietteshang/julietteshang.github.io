@@ -8,7 +8,7 @@ comments: true
 ![All Pages Combined](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Part 1 of Comibned Page.jpeg?raw=true)
 ![All Pages Combined 2](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Part 2 of Combined Pages.jpeg?raw=true)
 #### Individual Pages in Prototype
-![Page #1](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page%20%231.jpeg?raw=true)
+![Page#1](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Page%20%231.jpeg?raw=true)
 
 This is the first page when you open the app. You can log in with your HM email if you have already registered, 
 and if you are new, you can sign up with your HM email.
