@@ -2,8 +2,6 @@
 layout: post
 title: Paper Prototype
 subtitle: Our Paper Prototype
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 comments: true
 ---
 ### Full Paper Prototype
