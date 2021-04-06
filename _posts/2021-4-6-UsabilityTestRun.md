@@ -6,9 +6,9 @@ comments: true
 
 ### Usability Test Run Images
 
-![Page#1](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Usability Test-Image #1.png?raw=true)
+![Page#1](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/UsabilityTest-Image #1.png?raw=true)
 
-![Page#2](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Usability Test-Image #2.png?raw=true)
+![Page#2](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/UsabilityTest-Image #2.png?raw=true)
 
 ### Explanation
 
