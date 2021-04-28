@@ -11,6 +11,6 @@ For the first test, we presented our paper prototype starting on the first page,
 ###  Complete table of results from our three usability tests.
 
 
-![Table 1.png](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Table%201.png?raw=true)
+![Table 1.png](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Table1.png?raw=true)
 
-![Table 2.png](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Table%202.png?raw=true)
+![Table 2.png](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Table2.png?raw=true)
