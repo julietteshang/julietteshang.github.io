@@ -17,3 +17,5 @@ For the first test, we presented our paper prototype starting on the first page,
 ![Table 1.png](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Table1.png?raw=true)
 
 ![Table 2.png](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Table2.png?raw=true)
+
+![Table 3.png](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Table3.png?raw=true)
