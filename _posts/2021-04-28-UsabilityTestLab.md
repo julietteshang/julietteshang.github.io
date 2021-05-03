@@ -19,3 +19,7 @@ For the first test, we presented our paper prototype starting on the first page,
 ![Table 2.png](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Table2.png?raw=true)
 
 ![Table 3.png](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Table3.png?raw=true)
+
+### Modifications
+Some of the most important modifications that came out of the test trials were fixing the club page. Since the first user simply did not know what to do during the usability testing, it was crucial that we edited this page to provide clearer instructions stating what the user should do at this point. It was quite an easy fix, but proved to be necessary for our app to be clear.  I think the scheduling a club page also provided lots of helpful feedback. This wasn’t as much a critique about a glaring error in our prototype, but rather a very helpful suggestion to make our app better. We would revise this page to add a short few sentences about the club meeting that the student is signing up for. This would help reduce confusion or ambiguity for the students to make going to club meetings even simpler. 
+
