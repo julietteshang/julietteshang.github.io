@@ -11,6 +11,11 @@ For the first test, we presented our paper prototype starting on the first page,
  
  The last trial was conducted by Ethan, and the test was conducted at his home, a place where the app wouldn’t be commonly used, but could be used. The user, a sibling of Ethan and an HM student, is a senior and is the FTC robotics captain, and leader of the PERIOD club, so this app was interesting to her in particular because she could use it for scheduling her meetings and helping other leaders of her clubs in the future have an easier time scheduling meetings. In this test, the trial was done with minimal speaking between Ethan and his participant as it allowed for more independent use of the app. Also, it allowed Ethan to gain more information from his participant’s actions and the questions she asked. Ethan prompted the participant to say whatever was on their mind, and how they felt about their interactions and about each page. In fact, the user suggested that there should be another option for extra info on setting a meeting for a club page, so we are going to most likely add that to the same page or add another page for that option. The main revision that was made was with the removal of the arrow on the main page as it led to some confusion in previous tests. As a result of this removal, the participant in Ethan’s test had no comments on this aspect of it.
 
+### Task #1: Sending out Polls
+
+
+
+
 ###  Table of results from our three usability tests.
 
 
