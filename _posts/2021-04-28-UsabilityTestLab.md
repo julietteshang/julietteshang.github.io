@@ -13,12 +13,12 @@ For the first test, we presented our paper prototype starting on the first page,
 
 ### Task #1: Sending out Polls
 
-![Task#1.png](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Task#1.png?raw=true)
+![Task2.jpeg](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Task2.jpeg?raw=true)
 
 
 ### Task #2: Scheduling a Club Meeting
 
-![Task#2.png](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Task#2.png?raw=true)
+![Task#2.png](https://github.com/EthanNickJuliette/EthanNickJuliette.github.io/blob/master/Task2.jpeg?raw=true)
 
 ###  Table of results from our three usability tests.
 
