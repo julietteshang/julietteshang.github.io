@@ -12,7 +12,6 @@ Through generating issues at HM in order to create a prototype, to testing with 
 #### Accountability, fairness, and transparency 
 During this year, as we learned about the potential and influence that technology holds, I learned more about my own beliefs regarding technology, and how to best regulate it. In my opinion, technology should always be used with good intentions, for example, to help make something easier for someone. I recently edited an article for our school publication, Spectrum, which included faculty and student opinions at HM about ethics in Machine Learning. (The issue will be published soon, check it out when it comes out!) While editing it, I read about many different opinions as well as previous examples where Machine Learning has failed in the past, such as Amazon’s hiring algorithm that discriminated against women. The writer of this article determined the best way to ensure technology remains regulated is through accountability, fairness and transparency. These three things are crucial to ensure that technology is used only for good intentions, and when it is not, there is a way to deal with it. Here is a preview of the article.
 
-
 ![article](https://github.com/julietteshang/julietteshang.github.io/blob/master/article.png?raw=true)
 
 #### Especially transparency
@@ -24,12 +23,14 @@ Before taking this class, I had imagined that in the process of creating an app,
 
 ## Don't Settle, Keep Thinking
 After we had narrowed our app down to 2 central tasks, the members of our group came up with a first very rough prototype that we all agreed on. It seemed like the easiest way to set up the app and came to our minds quickly. Since we all agreed on it, we almost had decided to just go with this first design. This design was based around a “tab system” and while it was a decent way to organize our information, it was also the most straightforward, and we came up with it automatically. Here is the idea we first came up with:
+
 ![prototype](https://github.com/julietteshang/julietteshang.github.io/blob/master/prototype.png?raw=true)
 
 We almost went with this design until we had to come up with 3 different sketches for our possible app as an assignment. At this stage, we were forced to pause for a minute and had to think a little deeper to come up with creative new ways to deliver all the information in our app. This stage allowed us to not just be content with our first idea, but to go deeper and come up with a product that ended up making a lot more sense and ended up being more comprehensive.
 
 ## Take Yourself Out of the Picture
 As the three of us worked closely on the app, our mindset and view of our prototype soon began to merge. For instance, as mentioned earlier, when we all created the first rough prototype, since we had come up with ideas together, it was no surprise that our first prototypes were very similar. This similarity in our mindset can be both a positive and a negative asset. It is great as it means we were in unison and on the same page, and thus worked very well together. However, this similar perspective also can serve as a blinder. When people are in accordance like this, outside perspectives can get lost. For example, in our prototype, everything made sense to us, and we would affirm each other’s ideas since we worked so closely together, we understood. However, after conferring with other people, either through tests or literally by chatting with others outside our immediate group, we were able to see big things we missed that made sense to us but not others. For example, with the clubs page, we had believed it was easy to use since we had developed it, but in reality, it turned out to be very unclear for everyone else. This is an image of the first club page we made that most people did not understand, and we have since revised multiple times. 
+
 ![clubs](https://github.com/julietteshang/julietteshang.github.io/blob/master/clubs.png?raw=true)
 
 
