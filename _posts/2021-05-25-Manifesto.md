@@ -9,7 +9,9 @@ tags: [homework]
 ---
 Through generating issues at HM in order to create a prototype, to testing with users and finalizing our digital prototype, I’ve learned a lot about the design process this year through Mobile Apps. In this manifesto, I’ll touch upon the 5 key aspects that enabled my group to create our final prototype.  
   
-## Personal code of ethics: Accountability, fairness and transparency but especially transparency
+## Personal code of ethics
+
+#### Accountability, fairness and transparency but especially transparency
 During this year, as we learned about the potential and influence of technology, I learned more about my own beliefs regarding technology, and how to best regulate it. In my opinion, technology should always be used with good intentions, for example, to help make something easier for someone. I recently edited an article for our school publication, Spectrum, which included faculty and student opinions at HM about ethics in Machine Learning. (The issue will be published soon, check it out when it comes out!) While editing it, I read about many different opinions as well as previous examples where Machine Learning has failed in the past. The writer determined the best way to ensure technology remains regulated is through accountability, fairness and transparency. These three things are crucial to ensure that technology is used only for good intentions, and when it is not, there is a way to deal with it. 
 (image)
 Specific to our group, this meant creating an app with the intention of helping students and teachers at HM receive a little less clutter in their first class email system. When creating systems such as the poll function in our app, we made sure the user put in their email address so that in case someone submits something inappropriate, it could easily be tracked. As this is an app for school used by students primarily, transparency is a key component in our app to ensure everything remains school appropriate. 
