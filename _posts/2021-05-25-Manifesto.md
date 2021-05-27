@@ -35,6 +35,7 @@ This point takes the previous Take Yourself Out of the Picture point one step fu
   Testing users consist of contextual inquiries, interviews etc, that each have a unique set of qualities. For contextual inquiries, our group found they were extremely helpful in the user providing honest critiques and feedback about our app while they merely narrated their thoughts.
 For example, as seen in our table of revisions we made after testing with users, and through the first paper prototype to our final digital prototype, we changed many things with the goal of making our app easier to use. These changes allowed the app to be more accessible to everyone. 
 Additionally, as seen in the website: having simpler displays, easy to read colors, clear instructions will help the design for any product be most accessible to all.
+
 ![changes](https://github.com/julietteshang/julietteshang.github.io/blob/master/changes.png?raw=true)
 
 These 5 components were crucial in aiding my group’s development and design of our app, HM Comms. Our group had gone through steps 2-5 chronologically, as that is how our design process laid out.
